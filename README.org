@@ -1,4 +1,16 @@
 * About
 A variety of tools for helping with manuscript production in LaTex
-environment. Initially this started with plotting, now I trying to
-consolidate all of the tools into one central location.
+environment. Initially this started with plotting, now I am trying to
+consolidate all of the tools into one central package.
+
+* Plotting
+[[http://matplotlib.org/][matplotlib]] is a wonderful tool for scientific plotting in
+python. However, it does require some tweaking if you want to generate
+publication quality plots with it. The [[file:plots.py][plots]] file is an initial
+example of how to set some of these parameters for a given document.
+
+** External Links
+Here are some of the resources I used for putting this together.
+
+- [[https://scipy.github.io/old-wiki/pages/Cookbook/Matplotlib/LaTeX_Examples][SciPy Cookbook]]
+- [[http://blog.dmcdougall.co.uk/publication-ready-the-first-time-beautiful-reproducible-plots-with-matplotlib/][Douglas McDougall]]
