@@ -1,0 +1,4 @@
+* About
+A variety of tools for helping with manuscript production in \LaTeX
+environment. Initially this started with plotting, now I trying to
+consolidate all of the tools into one central location.
